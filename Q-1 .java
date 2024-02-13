@@ -1,3 +1,5 @@
+//Q-1
+
 import java.util.*;
 
 class Ex {
