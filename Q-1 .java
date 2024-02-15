@@ -5,8 +5,7 @@ import java.util.*;
 class Ex {
     public static void main(String args[]) {
         double perc;
-        int temp = 0;
-
+        
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter percentage: ");
         perc = sc.nextDouble();
